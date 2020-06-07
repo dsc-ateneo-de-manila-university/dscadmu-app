@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "978421115636",
+    "firebase_url": "https://dscadmu-app.firebaseio.com",
+    "project_id": "dscadmu-app",
+    "storage_bucket": "dscadmu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978421115636:android:46e4756d53116cd00ecca1",
+        "android_client_info": {
+          "package_name": "org.dscadmu.androidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978421115636-bbgkaiknu5iq5cm97h7m32j8nhrulvja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSADKD6M1u2HhoOqOEYs1nTxewrFfPsdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978421115636-bbgkaiknu5iq5cm97h7m32j8nhrulvja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
